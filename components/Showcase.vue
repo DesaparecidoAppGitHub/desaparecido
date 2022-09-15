@@ -8,7 +8,7 @@
                 Current Search and Rescue (SAR) software is not designed for field work.
                 We will help you to perform SAR much easier and faster.
             </p>
-            <img src="assets/imgs/showcase.png" />
+            <img src="/imgs/showcase.png" />
         </div>
     </div>
 </template>
