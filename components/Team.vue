@@ -10,7 +10,7 @@
         </div>
         <div class="container mx-auto grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-4 items-center md:px-0 mt-8 md:mt-2">
             <div v-for="{avatar, name, position, exp1, exp2} in team" :key="name" class="px-2 md:px-16 text-center mb-16">
-                <img class="mx-auto w-40 h-40" :src='`assets/imgs/${avatar}.png`' />
+                <img class="mx-auto w-40 h-40" :src='`imgs/${avatar}.png`' />
                 <h1 class="text-xl mt-4 text-monochrome-800 px-8">
                     {{ name }}
                 </h1>
