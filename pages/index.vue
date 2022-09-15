@@ -3,11 +3,10 @@
   <Logos />
   <Showcase />
   <Features />
-  <!-- <Updates />  -->
+  <Updates />
   <Team />
-  <!-- <Transparency />
+  <Transparency />
   <Contact />
-  -->
 </template>
 
 <script lang="ts">
