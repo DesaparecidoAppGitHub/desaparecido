@@ -8,9 +8,13 @@
                 <p class="text-lg w-full leading-relaxed mt-8 text-monochrome-600 mb-16">
                     This software will help your emergency team to perform SaR much easier and faster.
                 </p>
-                <button class="px-8 py-4 bg-primary-300 hover:bg-primary-400 text-monochrome-50 rounded-full text-sm mb-16">
+                <a
+                    href="mailto:hola@desaparecido.app?subject=Request a demo"
+                    class="px-8 py-4 bg-primary-300 hover:bg-primary-400 text-monochrome-50 rounded-full text-sm mb-16 cursor-pointer"
+                    target="_blank"
+                >
                     Request a demo
-                </button>
+                </a>
             </div>
             <div class="basis-3/5">
                 <img src="/imgs/product.png" />
