@@ -10,7 +10,7 @@
         </div>
         <div class="container mx-auto grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-4 items-center md:px-0 mt-8 md:mt-2">
             <div v-for="{icon, title, content} in features" :key="title" class="px-2 md:px-16 text-center mb-16">
-                <img class="mx-auto" :src='`assets/icons/${icon}.svg`' />
+                <img class="mx-auto" :src='`@/assets/icons/${icon}.svg`' />
                 <h1 class="text-xl mt-4 text-monochrome-800 px-8">
                     {{ title }}
                 </h1>
