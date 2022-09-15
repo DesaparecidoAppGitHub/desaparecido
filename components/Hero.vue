@@ -13,7 +13,7 @@
                 </button>
             </div>
             <div class="basis-3/5">
-                <img src="assets/img/product.png" />
+                <img src="/imgs/product.png" />
             </div>
         </div>
     </div>

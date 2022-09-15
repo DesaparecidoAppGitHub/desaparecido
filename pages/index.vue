@@ -1,6 +1,13 @@
 <template>
   <Hero />
   <Logos />
+  <Showcase />
+  <Features />
+  <!-- <Updates />  -->
+  <Team />
+  <!-- <Transparency />
+  <Contact />
+  -->
 </template>
 
 <script lang="ts">
