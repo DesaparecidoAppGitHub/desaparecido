@@ -1,0 +1,71 @@
+{
+    "hero-header": "Existe una mejor forma de gestionar los servicios de búsqueda y rescate",
+    "hero-subheader": "Este software ayudará a su equipo de emergencias a realizar los servicios mucho más rápido",
+    "hero-cta": "Solicite una demo gratuita",
+    "trusted-by": "Con la confianza de",
+    "showcase-title": "Encuentra personas desaparecidas más rápido que nunca",
+    "showcase-subtitle": "El software actual de búsqueda y rescate (SAR) no está diseñado para el trabajo de campo. Le ayudaremos a realizar SAR mucho más fácil y rápido.",
+    "features": {
+        "title": "Funciones",
+        "subtitle": "Desaparecido es un software diseñado para ayudar a los equipos de emergencias a ser más efectivos en búsqueda de personas desaparecidas.",
+        "real-time-title": "Datos en tiempo real",
+        "real-time-subtitle": "Monitoreo y control en vivo de los datos de casos de personas desaparecidas.",
+        "centralized-title": "Plataforma centralizada",
+        "centralized-subtitle": "Metodología y procesos estandarizados para una colaboración óptima.",
+        "control-plan-title": "Control y planificación",
+        "control-plan-subtitle": "Documentar y coordinar planes entre todos los equipos de actuación.",
+        "user-manage-title": "Gestión de usuarios",
+        "user-manage-subtitle": "Monitoreo y control en vivo de los datos de casos de personas desaparecidas.",
+        "optimization-title": "Optimización",
+        "optimization-subtitle": "Metodología y procesos estandarizados para una colaboración óptima.",
+        "data-protection-title": "Protección de datos",
+        "data-protection-subtitle": "Documentar y coordinar planes entre todos los equipos de actuación."
+    },
+    "updates-title": "Actualizaciones",
+    "updates-subtitle": "Descubre todas nuestras últimas noticias cada mes.",
+    "coming-soon": "Próximamente",
+    "team": {
+        "title": "Equipo",
+        "subtitle": "Somos un equipo pequeño que está empujando los límites para crear un gran impacto en las operaciones de búsqueda y rescate.",
+        "edu": {
+            "position": "Cofundador y CEO",
+            "currently": "Desarrollador Fullstack",
+            "experience": "+4 años en Software"
+        },
+        "javi": {
+            "position": "Cofundador y CPO",
+            "currently": "CEO BeHappy",
+            "experience": "+12 años en UX"
+        },
+        "carmen": {
+            "position": "Cofundador y CFO",
+            "currently": "Líder de Métodos y Análisis",
+            "experience": "+3 años en Negocio"
+        },
+        "stas": {
+            "position": "Diseñador",
+            "currently": "CEO Digitup Studio",
+            "experience": "+10 años en Diseño de Producto"
+        },
+        "enric": {
+          "position": "Consejero",
+          "currently": "Bombero",
+          "experience": "+18 años en SAR"
+        },
+        "albert": {
+            "position": "Consejero",
+            "currently": "Bombero",
+            "experience": "+18 años en SAR"
+        },
+        "kiko": {
+            "position": "CMO",
+            "currently": "CEO Caseroo",
+            "experience": "+7 años en Marketing"
+        }
+    },
+    "transparency-title": "Transparencia",
+    "transparency-subtitle": "Creemos que este proyecto social debe ser abierto, centrado en ayudar a las personas con total transparencia.",
+    "contact-title": "Contacto",
+    "contact-subtitle": "No dude en contactar con nosotros para cualquier pregunta o propuesta.",
+    "copyright": "Todos los derechos reservados."
+}
