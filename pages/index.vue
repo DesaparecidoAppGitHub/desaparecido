@@ -1,4 +1,5 @@
 <template>
+  <Head><Title>Desaparecido</Title></Head>
   <Hero />
   <Logos />
   <Showcase />

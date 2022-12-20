@@ -1,16 +1,13 @@
-import { defineNuxtConfig } from 'nuxt'
+import { defineNuxtConfig } from 'nuxt/config'
 
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
+    app: { head: { link: [{ rel: 'icon', type: 'image/svg', href: '/favicon.png' }] } },
     css: ["@/assets/css/styles.css"],
-    build: {
-      postcss: {
-        postcssOptions: {
-          plugins: {
-            tailwindcss: {},
-            autoprefixer: {},
-          },
-        },
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {},
       },
-    },
-  });
+    }
+});
