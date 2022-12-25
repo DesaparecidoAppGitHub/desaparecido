@@ -8,8 +8,8 @@
                 {{ $t("features.subtitle") }}
             </p>
         </div>
-        <div class="container mx-auto grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-4 items-center md:px-0 mt-8 md:mt-2">
-            <div v-for="{icon, content} in features" :key="content" class="px-2 md:px-16 text-center mb-16">
+        <div class="container mx-auto grid grid-cols-2 md:grid-cols-3 gap-1 md:gap-8 items-center md:px-0 mt-8 md:mt-2">
+            <div v-for="{icon, content} in features" :key="content" class="p-2 md:p-8 text-center rounded-lg hover:shadow">
                 <img class="mx-auto" :src='`/icons/${icon}.svg`' />
                 <h1 class="text-xl mt-4 text-monochrome-800 px-8">
                     {{ $t(`features.${content}-title`) }}
