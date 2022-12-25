@@ -30,7 +30,7 @@
         "edu": {
             "position": "Cofounder & CEO",
             "currently": "Fullstack Developer",
-            "experience": "+3 years in SW Dev."
+            "experience": "+4 years in SW Dev."
         },
         "javi": {
             "position": "Cofounder & CPO",
@@ -40,12 +40,12 @@
         "carmen": {
             "position": "Cofounder & CFO",
             "currently": "Methods & Analysis Leader",
-            "experience": "+3 years in Business Dev."
+            "experience": "+4 years in Business Dev."
         },
         "stas": {
             "position": "Designer",
             "currently": "CEO Digitup Studio",
-            "experience": "+10 years in Product Design"
+            "experience": "+10 years in Design"
         },
         "enric": {
             "position": "Advisor",
@@ -55,10 +55,10 @@
         "albert": {
             "position": "Advisor",
             "currently": "Firefighter",
-            "experience": "+18 years in SAR"
+            "experience": "+20 years in SAR"
         },
         "kiko": {
-            "position": "CMO",
+            "position": "Marketing",
             "currently": "CEO Caseroo",
             "experience": "+7 years in Marketing"
         }
