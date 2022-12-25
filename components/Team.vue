@@ -8,7 +8,7 @@
                 {{ $t("team.subtitle") }}
             </p>
         </div>
-        <div class="container mx-auto grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 md:gap-8 items-center md:px-0 mt-8 md:mt-2">
+        <div class="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8 md:gap-8 items-center md:px-0 mt-8 md:mt-2">
             <div v-for="{id, name, linkedin} in team" :key="name" class="p-4 md:p-8 text-center rounded-lg hover:shadow">
                 <img class="mx-auto rounded-full w-40 h-40" :src='`/imgs/team/${id}.png`' />
                 <h1 class="text-xl mt-4 text-monochrome-800">
