@@ -17,6 +17,7 @@
   <p align="center">
     Desaparecido is a platform that acts in REAL TIME as a UNIVERSAL reliable source of information to help in the search for missing persons through gamification and data analysis.
     <br />
+    <br />
     <a href="https://desaparecido.app/">View Demo</a>
     ·
     <a href="https://github.com/DesaparecidoApp/website/issues">Report Bug</a>
@@ -28,7 +29,7 @@
 
 <!-- PROJECT SPONSORS -->
 <div align="center">
-  <a href="https://vercel.com?utm_source=desaparecido&utm_campaign=oss" target="_blank">
+  <a href="https://vercel.com?utm_source=desaparecido-app&utm_campaign=oss" target="_blank">
     <img src="public/imgs/sponsors/powered_by_vercel.svg" alt="Logo" width="160" height="60">
   </a>
 </div>
