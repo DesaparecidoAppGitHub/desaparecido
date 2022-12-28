@@ -1,6 +1,6 @@
 <template>
     <div class="flex flex-col justify-center md:h-screen text-xl bg-monochrome-100 py-8 md:py-16">
-        <div class="container px-4 md:px-0 mx-auto w-7xl flex flex-col md:flex-row">
+        <div class="container px-4 md:px-8 mx-auto w-7xl flex flex-col lg:flex-row">
             <div class="basis-2/5 pr-8">
                 <h1 class="text-4xl font-bold leading-[3rem] text-monochrome-800 mb-8 md:mb-12">
                     {{ $t("hero-header") }}
