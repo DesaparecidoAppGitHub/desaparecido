@@ -1,71 +1,73 @@
 {
-    "hero-header": "There is a better way to manage search and rescue services",
-    "hero-subheader": "This software will help your emergency team to perform SaR much faster",
-    "hero-cta": "Request a free demo",
-    "trusted-by": "Trusted by",
-    "showcase-title": "Find missing people faster than ever",
-    "showcase-subtitle": "Current Search and Rescue (SAR) software is not designed for field work. We will help you to perform SAR much easier and faster.",
-    "features": {
-        "title": "Features",
-        "subtitle": "Desaparecido is a suite of software designed to help search and rescue teams be more effective in finding missing persons.",
-        "real-time-title": "Data in real time",
-        "real-time-subtitle": "Monitoring and live control of the data from missing people cases.",
-        "centralized-title": "Centralized Platform",
-        "centralized-subtitle": "Standardized methodology and processes for optimal collaboration.",
-        "control-plan-title": "Control and plan",
-        "control-plan-subtitle": "Document and coordinate plans between all acting teams.",
-        "user-manage-title": "User management",
-        "user-manage-subtitle": "Monitoring and live control of the data from missing people cases.",
-        "optimization-title": "Optimization",
-        "optimization-subtitle": "Standardized methodology and processes for optimal collaboration.",
-        "data-protection-title": "Data protection",
-        "data-protection-subtitle": "Data Privacy Priority (GDPR) and secure software by design."
+  "hero-header": "There is a better way to manage search and rescue services",
+  "hero-subheader": "This software will help your emergency team to perform SaR much faster",
+  "hero-cta": "Request a free demo",
+  "trusted-by": "Trusted by",
+  "showcase-title": "Find missing people faster than ever",
+  "showcase-subtitle": "Current Search and Rescue (SAR) software is not designed for field work. We will help you to perform SAR much easier and faster.",
+  "features": {
+    "title": "Features",
+    "subtitle": "Desaparecido is a suite of software designed to help search and rescue teams be more effective in finding missing persons.",
+    "real-time-title": "Data in real time",
+    "real-time-subtitle": "Monitoring and live control of the data from missing people cases.",
+    "centralized-title": "Centralized Platform",
+    "centralized-subtitle": "Standardized methodology and processes for optimal collaboration.",
+    "control-plan-title": "Control and plan",
+    "control-plan-subtitle": "Document and coordinate plans between all acting teams.",
+    "user-manage-title": "User management",
+    "user-manage-subtitle": "Monitoring and live control of the data from missing people cases.",
+    "optimization-title": "Optimization",
+    "optimization-subtitle": "Standardized methodology and processes for optimal collaboration.",
+    "data-protection-title": "Data protection",
+    "data-protection-subtitle": "Data Privacy Priority (GDPR) and secure software by design."
+  },
+  "updates-title": "Updates",
+  "updates-subtitle": "Discover all our latest news every month.",
+  "updates-see": "See all updates",
+  "coming-soon": "Coming soon",
+  "team": {
+    "title": "Team",
+    "subtitle": "We're a small team that is pushing the boundaries to create a great impact in search and rescue operations.",
+    "edu": {
+      "position": "Cofounder & CEO",
+      "currently": "Fullstack Developer",
+      "experience": "+4 years in SW Dev."
     },
-    "updates-title": "Updates",
-    "updates-subtitle": "Discover all our latest news every month.",
-    "coming-soon": "Coming soon",
-    "team": {
-        "title": "Team",
-        "subtitle": "We're a small team that is pushing the boundaries to create a great impact in search and rescue operations.",
-        "edu": {
-            "position": "Cofounder & CEO",
-            "currently": "Fullstack Developer",
-            "experience": "+4 years in SW Dev."
-        },
-        "javi": {
-            "position": "Cofounder & CPO",
-            "currently": "CEO BeHappy",
-            "experience": "+12 years in UX"
-        },
-        "carmen": {
-            "position": "Cofounder & CFO",
-            "currently": "Methods & Analysis Leader",
-            "experience": "+4 years in Business Dev."
-        },
-        "stas": {
-            "position": "Designer",
-            "currently": "CEO Digitup Studio",
-            "experience": "+10 years in Design"
-        },
-        "enric": {
-            "position": "Advisor",
-            "currently": "Firefighter",
-            "experience": "+18 years in SAR"
-        },
-        "albert": {
-            "position": "Advisor",
-            "currently": "Firefighter",
-            "experience": "+20 years in SAR"
-        },
-        "kiko": {
-            "position": "Marketing",
-            "currently": "CEO Caseroo",
-            "experience": "+7 years in Marketing"
-        }
+    "javi": {
+      "position": "Cofounder & CPO",
+      "currently": "CEO BeHappy",
+      "experience": "+12 years in UX"
     },
-    "transparency-title": "Transparency",
-    "transparency-subtitle": "We believe this social project needs to be open, focusing on helping people with full transparency.",
-    "contact-title": "Contact",
-    "contact-subtitle": "Don't doubt about contacting us for any question or proposal.",
-    "copyright": "All rights reserved."
+    "carmen": {
+      "position": "Cofounder & CFO",
+      "currently": "Methods & Analysis Leader",
+      "experience": "+4 years in Business Dev."
+    },
+    "stas": {
+      "position": "Designer",
+      "currently": "CEO Digitup Studio",
+      "experience": "+10 years in Design"
+    },
+    "enric": {
+      "position": "Advisor",
+      "currently": "Firefighter",
+      "experience": "+18 years in SAR"
+    },
+    "albert": {
+      "position": "Advisor",
+      "currently": "Firefighter",
+      "experience": "+20 years in SAR"
+    },
+    "kiko": {
+      "position": "Marketing",
+      "currently": "CEO Caseroo",
+      "experience": "+7 years in Marketing"
+    }
+  },
+  "transparency-title": "Transparency",
+  "transparency-subtitle": "We believe this social project needs to be open, focusing on helping people with full transparency.",
+  "transparency-see": "See all about our project",
+  "contact-title": "Contact",
+  "contact-subtitle": "Don't doubt about contacting us for any question or proposal.",
+  "copyright": "All rights reserved."
 }
